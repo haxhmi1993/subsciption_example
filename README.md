@@ -45,8 +45,6 @@ Before running the script, you need to configure the following constants at the 
     PLAN_ID = 14
     ```
 
-    **Important Security Note**: It is highly recommended to manage your `BEARER_TOKEN` securely, for example, using environment variables or a secrets management tool, rather than hardcoding it directly into the script for production use.
-
 ## Usage
 
 To run the script, navigate to its directory in your terminal and execute:
